@@ -4,7 +4,9 @@
 
 ### Description
 
-I built this project to familiarize myself with Chakra UI, i use the Bayut API from RapidAPI to get the data and NextJS as reazct framework for server side rendering (SSR).
+I built this project to familiarize myself with Chakra UI, i use the Bayut API from RapidAPI to get the data and NextJS as react framework for server side rendering (SSR).
+
+[Live Demo](https://nextjs-real-estate-cl1saempc-hakimraissi.vercel.app/)
 
 
 ### Built with
@@ -77,4 +79,5 @@ GitHub : [HakimRaissi](https://github.com/HakimRaissi/)
 Twitter : [@Hakim_Raissi_10](https://twitter.com/Hakim_Raissi_10)
 Email : <raissihakim1808@outlook.fr>
 
-Project Link: [https://github.com/HakimRaissi/nextjs-real-estate](https://github.com/HakimRaissi/nextjs-real-estate)
+GitHub Repository Link: <https://github.com/HakimRaissi/nextjs-real-estate>
+Live Demo : <https://nextjs-real-estate-cl1saempc-hakimraissi.vercel.app>
