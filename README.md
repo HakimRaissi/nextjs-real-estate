@@ -76,8 +76,11 @@ Distributed under the MIT License.
 Hakim Raissi
 
 GitHub : [HakimRaissi](https://github.com/HakimRaissi/)
+
 Twitter : [@Hakim_Raissi_10](https://twitter.com/Hakim_Raissi_10)
+
 Email : <raissihakim1808@outlook.fr>
 
 GitHub Repository Link: <https://github.com/HakimRaissi/nextjs-real-estate>
+
 Live Demo : <https://nextjs-real-estate-cl1saempc-hakimraissi.vercel.app>
